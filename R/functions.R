@@ -25,6 +25,6 @@ add_numbers <- function(input1, input2){
 }
 
 sticky <- function(input1, input2){
-    result <- glue("{input1}--{input2}")
+    result <- glue("{input1}=={input2}")
     return(result)
 }
