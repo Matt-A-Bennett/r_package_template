@@ -2,6 +2,7 @@
 # mypackage
 
 <!-- badges: start -->
+[![Codecov test coverage](https://codecov.io/gh/Matt-A-Bennett/test_r_package/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Matt-A-Bennett/test_r_package?branch=main)
 <!-- badges: end -->
 
 The goal of mypackage is to ...
