@@ -3,5 +3,5 @@ test_that("addition works", {
 })
 
 test_that("glue string works", {
-  expect_equal(sticky('hello', 'world'), 'hello--world')
+  expect_equal(sticky('hello', 'world'), 'hello--world!')
 })
