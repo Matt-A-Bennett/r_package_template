@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![Codecov test coverage](https://codecov.io/gh/Matt-A-Bennett/test_r_package/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Matt-A-Bennett/test_r_package?branch=main)
+[![R-CMD-check](https://github.com/Matt-A-Bennett/test_r_package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Matt-A-Bennett/test_r_package/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage is to ...
