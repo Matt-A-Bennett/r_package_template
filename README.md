@@ -1,5 +1,5 @@
 
-# mypackage
+# r_package_template
 
 <!-- badges: start -->
 [![Codecov test coverage](https://codecov.io/gh/Matt-A-Bennett/test_r_package/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Matt-A-Bennett/test_r_package?branch=main)
