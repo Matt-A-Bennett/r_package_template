@@ -3,8 +3,8 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/Matt-A-Bennett/r_package_template/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Matt-A-Bennett/r_package_template/actions/workflows/R-CMD-check.yaml)
-[![Codecov test coverage](https://codecov.io/gh/Matt-A-Bennett/r_package_template/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Matt-A-Bennett/r_package_template?branch=main)
 [![test-coverage](https://github.com/Matt-A-Bennett/r_package_template/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/Matt-A-Bennett/r_package_template/actions/workflows/test-coverage.yaml)
+[![Codecov test coverage](https://codecov.io/gh/Matt-A-Bennett/r_package_template/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Matt-A-Bennett/r_package_template?branch=main)
 <!-- badges: end -->
 
 The goal of mypackage is to ...
